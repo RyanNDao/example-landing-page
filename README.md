@@ -7,3 +7,7 @@
 
 ## About
 This is a repo for the landing page project. This assignment is about learning the basics of CSS
+
+
+## Features
+This is an rudimentary landing page with CSS for cosmetics
