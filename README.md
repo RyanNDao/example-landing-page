@@ -10,4 +10,4 @@ This is a repo for the landing page project. This assignment is about learning t
 
 
 ## Features
-This is an rudimentary landing page with CSS for cosmetics
+- Rudimentary landing page with CSS for cosmetics
